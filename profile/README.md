@@ -1,105 +1,43 @@
-<!DOCTYPE html>
-<html lang="pl">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OpenDomain Group</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #0f172a;
-            color: #e2e8f0;
-            margin: 0;
-            padding: 20px;
-            line-height: 1.6;
-        }
-        .container {
-            max-width: 900px;
-            margin: auto;
-        }
-        h1, h2 {
-            color: #38bdf8;
-        }
-        .card {
-            background: #1e293b;
-            padding: 20px;
-            border-radius: 12px;
-            margin-bottom: 20px;
-        }
-        ul {
-            padding-left: 20px;
-        }
-        li {
-            margin-bottom: 8px;
-        }
-        .warning {
-            color: #f87171;
-        }
-        footer {
-            text-align: center;
-            margin-top: 40px;
-            opacity: 0.6;
-        }
-    </style>
-</head>
-<body>
+# 🌐 OpenDomain Group
 
-<div class="container">
-    <h1>🌐 OpenDomain Group</h1>
+## 📌 O projekcie
 
-    <div class="card">
-        <h2>📌 O projekcie</h2>
-        <p>
-            <strong>OpenDomain Group</strong> to inicjatywa mająca na celu stworzenie alternatywnego systemu domen,
-            działającego bez tradycyjnego DNS. Naszym celem jest bardziej zdecentralizowany i bezpieczny internet,
-            w którym użytkownicy mają większą kontrolę nad swoją tożsamością i dostępem do zasobów.
-        </p>
-    </div>
+**OpenDomain Group** to inicjatywa skupiona na opracowaniu alternatywnego systemu domen, który działa bez tradycyjnego DNS. Naszym celem jest stworzenie bardziej zdecentralizowanego i bezpiecznego internetu, w którym użytkownicy mają większą kontrolę nad tożsamością i dostępem do zasobów.
 
-    <div class="card">
-        <h2>🎯 Nasze założenia</h2>
-        <p>Chcemy uprościć i zabezpieczyć proces rejestracji domen poprzez wymaganie minimalnych danych:</p>
-        <ul>
-            <li>Imię</li>
-            <li>E-mail lub numer telefonu</li>
-            <li>Weryfikacja dwuetapowa (2FA)</li>
-        </ul>
-    </div>
+## 🎯 Nasze założenia
 
-    <div class="card">
-        <h2>🔐 Bezpieczeństwo</h2>
-        <ul>
-            <li>Ograniczenie nadużyć i anonimowych ataków</li>
-            <li>Zwiększenie odpowiedzialności użytkowników</li>
-            <li>Poprawa wiarygodności usług w sieci</li>
-        </ul>
-    </div>
+Chcemy uprościć i jednocześnie zabezpieczyć proces rejestracji domen. Dlatego proponujemy, aby każdy rejestrator domeny był zobowiązany do zebrania minimalnego zestawu danych:
 
-    <div class="card">
-        <h2 class="warning">⚠️ Kontrowersje</h2>
-        <ul>
-            <li>Prywatność użytkowników</li>
-            <li>Decentralizacja vs. kontrola danych</li>
-            <li>Potencjalne regulacje prawne</li>
-        </ul>
-        <p>
-            Zachęcamy do otwartej dyskusji i współpracy przy rozwoju projektu.
-        </p>
-    </div>
+* Imię
+* Adres e-mail **lub** numer telefonu
+* Weryfikacja dwuetapowa (2FA)
 
-    <div class="card">
-        <h2>🚀 Cel</h2>
-        <ul>
-            <li>Większa odporność na nadużycia</li>
-            <li>Lepsze bezpieczeństwo użytkowników</li>
-            <li>Nowe możliwości zarządzania domenami</li>
-        </ul>
-    </div>
+## 🔐 Bezpieczeństwo
 
-    <footer>
-        OpenDomain Group – redefiniujemy internet
-    </footer>
-</div>
+Bezpieczeństwo użytkowników to dla nas priorytet. Wprowadzenie obowiązkowego 2FA oraz podstawowej weryfikacji tożsamości ma na celu:
 
-</body>
-</html>
+* ograniczenie nadużyć i anonimowych ataków
+* zwiększenie odpowiedzialności użytkowników
+* poprawę wiarygodności usług w sieci
+
+## ⚠️ Kontrowersje
+
+Jesteśmy świadomi, że nasz projekt może budzić kontrowersje, szczególnie w kontekście:
+
+* prywatności użytkowników
+* decentralizacji vs. kontrola danych
+* potencjalnych regulacji prawnych
+
+Traktujemy te kwestie poważnie i zachęcamy do otwartej dyskusji oraz współpracy przy dalszym rozwoju projektu.
+
+## 🚀 Cel
+
+Naszym długoterminowym celem jest stworzenie alternatywnej infrastruktury internetowej, która:
+
+* jest bardziej odporna na nadużycia
+* zapewnia większe bezpieczeństwo użytkownikom
+* daje nowe możliwości w zakresie zarządzania domenami
+
+---
+
+**OpenDomain Group** – redefiniujemy sposób, w jaki działa internet.
