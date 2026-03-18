@@ -39,7 +39,7 @@ Naszym długoterminowym celem jest stworzenie alternatywnej infrastruktury inter
 * daje nowe możliwości w zakresie zarządzania domenami
 
 # 🔗 Social Media 
-Chceli bysmy aby nie tylko osoby z naszego grona to roWijały. Chcieli byśmy też was zaangażować dla tego stworzyliśmy serwer discord.
+Chceli bysmy aby nie tylko osoby z naszego grona to rozwijały. Chcieli byśmy też was zaangażować dla tego stworzyliśmy serwer discord.
 
 ---
 
