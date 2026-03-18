@@ -38,6 +38,9 @@ Naszym długoterminowym celem jest stworzenie alternatywnej infrastruktury inter
 * zapewnia większe bezpieczeństwo użytkownikom
 * daje nowe możliwości w zakresie zarządzania domenami
 
+# 🔗 Social Media 
+Chceli bysmy aby nie tylko osoby z naszego grona to roWijały. Chcieli byśmy też was zaangażować dla tego stworzyliśmy serwer discord.
+
 ---
 
 **OpenDomain Group** – redefiniujemy sposób, w jaki działa internet.
