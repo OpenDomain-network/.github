@@ -45,3 +45,4 @@ https://discord.gg/AyKuPdPzs9
 ---
 
 **OpenDomain Group** – redefiniujemy sposób, w jaki działa internet.
+-# Jeśli jesteś człowiekiem organizacji wejdź w README prywatnego repozytorium (PV-.github)
