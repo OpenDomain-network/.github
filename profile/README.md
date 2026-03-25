@@ -38,9 +38,10 @@ Naszym długoterminowym celem jest stworzenie alternatywnej infrastruktury inter
 * zapewnia większe bezpieczeństwo użytkownikom
 * daje nowe możliwości w zakresie zarządzania domenami
 
-# 🔗 Social Media 
-Chceli bysmy aby nie tylko osoby z naszego grona to rozwijały. Chcieli byśmy też was zaangażować dla tego stworzyliśmy serwer discord.
-https://discord.gg/AyKuPdPzs9
+## 🔗 Kontakt
+
+ * Discord - https://discord.gg/AyKuPdPzs9
+ * Mail (Enlvis) - main@enlvis.cba.pl
 
 ---
 
